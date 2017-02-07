@@ -1,0 +1,37 @@
+Ash, tech evangelist for adobe
+
+Data management vs DOM manipulation
+
+Mangai
+
+Data management:
+
+function add(num1, num2) {
+  return num1 + num2;
+}
+
+add(1, 2);
+
+DOM manipulation:
+
+
+
+Meetups!
+coffee and coding conundrum(monthly)
+Founders Friday (each Friday)
+
+
+Find out how to innerHTML Class elements
+
+freesound.org
+
+
+
+
+
+
+
+
+
+
+

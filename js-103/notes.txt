@@ -1,0 +1,27 @@
+JavaScript!
+
+primitive types don't have methods.
+
+async callbacks*
+
+you want to have a clear seperation between JS data and objects.
+text in a div container is a seperate node... a text node.
+
+document.createTextNode();
+
+restAPI
+
+the default is JSON format
+
+create data object for submenu
+
+create the rest of the submenu.
+
+
+look at step 3 to cheat.
+
+remkohdev@us.ibm.com
+donniedamato.info
+
+ccouturi@gmail.com
+couturierc -- twitter

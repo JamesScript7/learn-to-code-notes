@@ -1,0 +1,97 @@
+let ***
+
+var name = String("remko");
+much more information on the input.
+
+some people place the script tag in the head when using jQuery because it has dependencies(?) to use it as a reference.
+
+true represents 1
+false represents 0
+
+you can assign a variable null.... but it makes it difficult when type checking or debugging?
+
+but usually it's good to assign an undefined variable null?
+
+
+?: ***
+for comparison...
+age > 21 ? "yes" : "no"
+
+
+instanceof ***
+
+
+var arr = new Array()
+is not better then "var arr = [];" because it's just more code..
+
+JSON.stringify
+turns an object into a string.
+it's a string! (stringify the JS object to the server)
+turns it into an associative array
+
+
+var a = JSON.stringify({'name': 'remko'};)
+
+.push() 
+.pop() takes last element
+.unshift() puts a new element in beggining of the array
+.shift()
+
+arr.splice(1,0,'a','b');
+(used for jQuery modification?)
+
+some array methods:
+mutates the original array
+and some creates a new array
+
+splice creates a new array as the return value.
+
+arr.sort() - sorts only strings
+you'll have to add a custom function
+function(a,b) {a-b}
+
+iterations:
+
+for ITEM in LIST
+
+in your while loop:
+continue (if u want to break the current iteration but continue to the next one.)
+
+
+debugging error checking:
+try...catch... finally
+
+functions:
+
+browser life cycles!
+ex: when body gets loaded.
+
+remember you can pass in a function in a function
+
+look up:
+CORS
+Same-origin Policy
+
+instructors email:
+
+remohdev@us.ibm.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

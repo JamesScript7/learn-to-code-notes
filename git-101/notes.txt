@@ -1,0 +1,103 @@
+Dell
+
+GIT:
+
+Vocab:
+
+Repo - project folder that you initialized with git
+Local/Remote repo - on your comp/on github
+Git - A source control system system to track changes on your file.
+
+cat > hello.txt
+this will enable you to write inside it.
+
+cat >> robin.txt
+will create the file.
+
+cd ~
+to go back to the home directory.
+
+git config --list
+to list your settings.
+
+in atom the files show up green to show it's a new file.
+
+git diff
+to see the difference
+
+git diff --cached
+
+for vim, when you open up in the terminal, you have to type "i" in order to "insert"
+
+:wq
+write quit
+
+in the description you should write why it changed.
+
+git show
+shows you the last changes
+
+git remote --verbose
+will give you your origin info
+
+*git push -u origin master
+
+	-u
+	stands for upstream (tracks the upstream)
+
+*git pull --rebase origin master
+(after you edit something on git hub)
+
+	pull request:
+	git checkout -b
+
+git checkout -b add-more-toppings
+(will switch to a new branch)
+
+*git push -u origin add-more-toppings
+(when you want to push your new local branch to it)
+
+Go to github and click compare pull request
+continue to merge and delete the branch.
+
+	*you don't want to push your master... you'd want to create a branch and then push that
+
+you want your branched to be protected.
+
+Fork is a copy of a repo, you can't make changes to it but you can make changes to the copy.
+
+
+Pull request:
+A request to modify the orignal repo
+the original author has to OK it.
+
+
+CONFLICTS
+example was when both masters (local and github) was changed.
+
+git pull --rebase origin master
+
+*darx - merging files?
+
+rebase is safer
+
+shortcutfoo.com
+
+css meetup wed feb 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
